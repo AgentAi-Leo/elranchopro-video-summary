@@ -4,7 +4,13 @@ Source: https://www.elranchopro.com/
 
 Share URL: https://agentai-leo.github.io/elranchopro-video-summary
 
-Total embedded videos found: **10**
+Download ZIP: https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip
+
+GitHub repository: https://github.com/AgentAi-Leo/elranchopro-video-summary
+
+## Completeness Audit
+
+10 videos · 10 titles · 10 captions · 9 roles/credits · 10 thumbnails · 10 source links · 0 black frames · 1 no visible role
 
 ### 1. Paper Madison
 
@@ -18,6 +24,8 @@ Total embedded videos found: **10**
 > **Portfolio caption:** Paper Madison
 
 My friend Madison is a fantastic dancer and created this dance on the spot! I just added a little spice on top.
+
+**Evidence:** title=Squarespace native nearby title text; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=Squarespace native /thumbnail URL; link=portfolio source page for native/self-hosted video
 
 [View Source](https://www.elranchopro.com/) · [View Portfolio](https://www.elranchopro.com/)
 
@@ -36,6 +44,8 @@ My friend Madison is a fantastic dancer and created this dance on the spot! I ju
 
 I took a risk flying so close to some of these buildings. I think it paid off.
 
+**Evidence:** title=Squarespace native nearby title text; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=Squarespace native /thumbnail URL; link=portfolio source page for native/self-hosted video
+
 [View Source](https://www.elranchopro.com/) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
@@ -52,6 +62,8 @@ I took a risk flying so close to some of these buildings. I think it paid off.
 > **Portfolio caption:** Bernie Blackout Trailer
 
 My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstream Media vs. Bernie Sanders” documentary.
+
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=Vimeo oEmbed/player-page i.vimeocdn.com thumbnail; link=Vimeo player embed URL because direct Vimeo may be privacy-restricted
 
 [View Source](https://player.vimeo.com/video/417720127?h=33fdce7de2&app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
 
@@ -70,6 +82,8 @@ My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstrea
 
 14 million + views on this experimental video that I edited for CUT’s YouTube channel.
 
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=YouTube oEmbed thumbnail; link=YouTube watch URL
+
 [View Source](https://www.youtube.com/watch?v=NIu6Ykuv8qQ) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
@@ -86,6 +100,8 @@ My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstrea
 > **Portfolio caption:** MIDI MATILDA - TIDAL WAVE
 
 After a week of road tripping around California, and a LOT of rotoscoping, we ended up with this.
+
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=YouTube oEmbed thumbnail; link=YouTube watch URL
 
 [View Source](https://www.youtube.com/watch?v=etEM_zPL_nQ) · [View Portfolio](https://www.elranchopro.com/)
 
@@ -104,6 +120,8 @@ After a week of road tripping around California, and a LOT of rotoscoping, we en
 
 A short trailer for the feature length dance film that I co-directed with Spectrum Dance Theater's Donald Byrd.
 
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=Vimeo oEmbed/player-page i.vimeocdn.com thumbnail; link=Vimeo player embed URL because direct Vimeo may be privacy-restricted
+
 [View Source](https://player.vimeo.com/video/474827764?h=36c1c0d714&app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
@@ -120,6 +138,8 @@ A short trailer for the feature length dance film that I co-directed with Spectr
 > **Portfolio caption:** Brittany Davis - Sepricon
 
 I co-directed and edited this music video with Donald Byrd at the Rabbit Box in Pike Place Market, Seattle. We wanted to give the viewer the experience of what's it's like to be a blind musician hearing rhythms of movement that build into a musical production.
+
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=YouTube oEmbed thumbnail; link=YouTube watch URL
 
 [View Source](https://www.youtube.com/watch?v=MiqSscagM0A) · [View Portfolio](https://www.elranchopro.com/)
 
@@ -138,6 +158,8 @@ I co-directed and edited this music video with Donald Byrd at the Rabbit Box in 
 
 I helped Steel Betty make their vision a reality for the hilarious "Waffle House" song.
 
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=YouTube oEmbed thumbnail; link=YouTube watch URL
+
 [View Source](https://www.youtube.com/watch?v=su6h3GmKgWI) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
@@ -155,6 +177,8 @@ I helped Steel Betty make their vision a reality for the hilarious "Waffle House
 
 I made this track with my dearest friend's vocals she recorded across the world! Arrangement inspired by Darius.
 
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=nearby visible parenthetical/standalone role text; thumbnail=YouTube oEmbed thumbnail; link=YouTube watch URL
+
 [View Source](https://www.youtube.com/watch?v=uVSGv4AYjAc) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
@@ -169,6 +193,8 @@ I made this track with my dearest friend's vocals she recorded across the world!
 > **Portfolio caption:** Egan
 
 Portfolio video item.
+
+**Evidence:** title=portfolio nearby title text with provider title fallback; caption=nearby portfolio text/caption fallback; role=no nearby role/credit text visible; thumbnail=Vimeo oEmbed/player-page i.vimeocdn.com thumbnail; link=Vimeo player embed URL because direct Vimeo may be privacy-restricted
 
 [View Source](https://player.vimeo.com/video/895954612?app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
 
