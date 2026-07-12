@@ -41,6 +41,8 @@ I took a risk flying so close to some of these buildings. I think it paid off.
 **PORTFOLIO VIDEOS · #3**  
 **Vimeo · ID 417720127**
 
+![Thumbnail for Bernie Blackout VICE Trailer](https://i.vimeocdn.com/video/910933745-1e03cc4e56615d4c2995eee2903f22d686f0885608086d5de8e6796de5792396-d)
+
 > **Portfolio caption:** Bernie Blackout Trailer
 
 My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstream Media vs. Bernie Sanders” documentary.
@@ -83,6 +85,8 @@ After a week of road tripping around California, and a LOT of rotoscoping, we en
 
 **PORTFOLIO VIDEOS · #6**  
 **Vimeo · ID 474827764**
+
+![Thumbnail for LS_Trailer_1min_v1](https://i.vimeocdn.com/video/987071827-69dbab0aa2d7f5d0aff2f86e011a6ff72416a86a7eca673bca38ec0f60f43361-d)
 
 > **Portfolio caption:** LYRIC SUITE
 
