@@ -17,7 +17,7 @@ Total embedded videos found: **10**
 
 My friend Madison is a fantastic dancer and created this dance on the spot! I just added a little spice on top.
 
-[View Squarespace Native](https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/e21b4775-0559-4e2b-b804-2aab41a280f0/original) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.elranchopro.com/) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -32,7 +32,7 @@ My friend Madison is a fantastic dancer and created this dance on the spot! I ju
 
 I took a risk flying so close to some of these buildings. I think it paid off.
 
-[View Squarespace Native](https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/c50dca02-0156-4858-890a-7a939b773d9e/original) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.elranchopro.com/) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -47,7 +47,7 @@ I took a risk flying so close to some of these buildings. I think it paid off.
 
 My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstream Media vs. Bernie Sanders” documentary.
 
-[View Vimeo](https://player.vimeo.com/video/417720127?h=33fdce7de2&app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://player.vimeo.com/video/417720127?h=33fdce7de2&app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -62,7 +62,7 @@ My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstrea
 
 14 million + views on this experimental video that I edited for CUT’s YouTube channel.
 
-[View YouTube](https://www.youtube.com/watch?v=NIu6Ykuv8qQ) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.youtube.com/watch?v=NIu6Ykuv8qQ) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -77,7 +77,7 @@ My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstrea
 
 After a week of road tripping around California, and a LOT of rotoscoping, we ended up with this.
 
-[View YouTube](https://www.youtube.com/watch?v=etEM_zPL_nQ) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.youtube.com/watch?v=etEM_zPL_nQ) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -92,7 +92,7 @@ After a week of road tripping around California, and a LOT of rotoscoping, we en
 
 A short trailer for the feature length dance film that I co-directed with Spectrum Dance Theater's Donald Byrd.
 
-[View Vimeo](https://player.vimeo.com/video/474827764?h=36c1c0d714&app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://player.vimeo.com/video/474827764?h=36c1c0d714&app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -107,7 +107,7 @@ A short trailer for the feature length dance film that I co-directed with Spectr
 
 I co-directed and edited this music video with Donald Byrd at the Rabbit Box in Pike Place Market, Seattle. We wanted to give the viewer the experience of what's it's like to be a blind musician hearing rhythms of movement that build into a musical production.
 
-[View YouTube](https://www.youtube.com/watch?v=MiqSscagM0A) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.youtube.com/watch?v=MiqSscagM0A) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -122,7 +122,7 @@ I co-directed and edited this music video with Donald Byrd at the Rabbit Box in 
 
 I helped Steel Betty make their vision a reality for the hilarious "Waffle House" song.
 
-[View YouTube](https://www.youtube.com/watch?v=su6h3GmKgWI) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.youtube.com/watch?v=su6h3GmKgWI) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -137,7 +137,7 @@ I helped Steel Betty make their vision a reality for the hilarious "Waffle House
 
 I made this track with my dearest friend's vocals she recorded across the world! Arrangement inspired by Darius.
 
-[View YouTube](https://www.youtube.com/watch?v=uVSGv4AYjAc) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://www.youtube.com/watch?v=uVSGv4AYjAc) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
 
@@ -152,6 +152,6 @@ I made this track with my dearest friend's vocals she recorded across the world!
 
 Portfolio video item.
 
-[View Vimeo](https://player.vimeo.com/video/895954612?app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
+[View Source](https://player.vimeo.com/video/895954612?app_id=122963) · [View Portfolio](https://www.elranchopro.com/)
 
 ---
