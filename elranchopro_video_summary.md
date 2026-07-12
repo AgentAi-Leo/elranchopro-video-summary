@@ -11,6 +11,8 @@ Total embedded videos found: **10**
 **PORTFOLIO VIDEOS · #1**  
 **Squarespace Native · ID e21b4775-0559-4e2b-b804-2aab41a280f0**
 
+**Role/Credits:** Editor, Director, Camera, Music
+
 ![Thumbnail for Paper Madison](https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/e21b4775-0559-4e2b-b804-2aab41a280f0/thumbnail)
 
 > **Portfolio caption:** Paper Madison
@@ -25,6 +27,8 @@ My friend Madison is a fantastic dancer and created this dance on the spot! I ju
 
 **PORTFOLIO VIDEOS · #2**  
 **Squarespace Native · ID c50dca02-0156-4858-890a-7a939b773d9e**
+
+**Role/Credits:** Editor, Drone Pilot
 
 ![Thumbnail for EURAERIAL](https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/c50dca02-0156-4858-890a-7a939b773d9e/thumbnail)
 
@@ -41,6 +45,8 @@ I took a risk flying so close to some of these buildings. I think it paid off.
 **PORTFOLIO VIDEOS · #3**  
 **Vimeo · ID 417720127**
 
+**Role/Credits:** Editor
+
 ![Thumbnail for Bernie Blackout VICE Trailer](https://i.vimeocdn.com/video/910933745-1e03cc4e56615d4c2995eee2903f22d686f0885608086d5de8e6796de5792396-d)
 
 > **Portfolio caption:** Bernie Blackout Trailer
@@ -55,6 +61,8 @@ My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstrea
 
 **PORTFOLIO VIDEOS · #4**  
 **YouTube · ID NIu6Ykuv8qQ**
+
+**Role/Credits:** Editor
 
 ![Thumbnail for Parents Explain Birth Control | Parents Explain | Cut](https://i.ytimg.com/vi/NIu6Ykuv8qQ/hqdefault.jpg)
 
@@ -71,6 +79,8 @@ My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstrea
 **PORTFOLIO VIDEOS · #5**  
 **YouTube · ID etEM_zPL_nQ**
 
+**Role/Credits:** Co-Director, Camera
+
 ![Thumbnail for Midi Matilda - Tidal Wave](https://i.ytimg.com/vi/etEM_zPL_nQ/hqdefault.jpg)
 
 > **Portfolio caption:** MIDI MATILDA - TIDAL WAVE
@@ -85,6 +95,8 @@ After a week of road tripping around California, and a LOT of rotoscoping, we en
 
 **PORTFOLIO VIDEOS · #6**  
 **Vimeo · ID 474827764**
+
+**Role/Credits:** Editor, Co-Director, Camera
 
 ![Thumbnail for LS_Trailer_1min_v1](https://i.vimeocdn.com/video/987071827-69dbab0aa2d7f5d0aff2f86e011a6ff72416a86a7eca673bca38ec0f60f43361-d)
 
@@ -101,6 +113,8 @@ A short trailer for the feature length dance film that I co-directed with Spectr
 **PORTFOLIO VIDEOS · #7**  
 **YouTube · ID MiqSscagM0A**
 
+**Role/Credits:** Co-Director, Editor
+
 ![Thumbnail for Brittany Davis - Sepricon (Official Music Video)](https://i.ytimg.com/vi/MiqSscagM0A/hqdefault.jpg)
 
 > **Portfolio caption:** Brittany Davis - Sepricon
@@ -116,6 +130,8 @@ I co-directed and edited this music video with Donald Byrd at the Rabbit Box in 
 **PORTFOLIO VIDEOS · #8**  
 **YouTube · ID su6h3GmKgWI**
 
+**Role/Credits:** Director, Camera, Editor
+
 ![Thumbnail for STEEL BETTY // "The Waffle House Song" OFFICIAL MUSIC VIDEO](https://i.ytimg.com/vi/su6h3GmKgWI/hqdefault.jpg)
 
 > **Portfolio caption:** Steel Betty - The Waffle House Song
@@ -130,6 +146,8 @@ I helped Steel Betty make their vision a reality for the hilarious "Waffle House
 
 **PORTFOLIO VIDEOS · #9**  
 **YouTube · ID uVSGv4AYjAc**
+
+**Role/Credits:** Music Production
 
 ![Thumbnail for SHIVER feat. Ify](https://i.ytimg.com/vi/uVSGv4AYjAc/hqdefault.jpg)
 

@@ -11,7 +11,7 @@
     "view_url": "https://www.elranchopro.com/",
     "caption": "Paper Madison",
     "portfolio_caption": "Paper Madison",
-    "portfolio_role": "(Editor, Director, Camera, Music)",
+    "portfolio_role": "Editor, Director, Camera, Music",
     "metadata_title": "",
     "source_title": "",
     "source_description": "",
@@ -24,7 +24,16 @@
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
     "index": 1,
-    "asset_url": "https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/e21b4775-0559-4e2b-b804-2aab41a280f0/original"
+    "asset_url": "https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/e21b4775-0559-4e2b-b804-2aab41a280f0/original",
+    "portfolio_role_raw": "(Editor, Director, Camera, Music)",
+    "display_role": "Editor, Director, Camera, Music",
+    "portfolio_roles": [
+      "Editor",
+      "Director",
+      "Camera",
+      "Music"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -38,7 +47,7 @@
     "view_url": "https://www.elranchopro.com/",
     "caption": "EURAERIAL",
     "portfolio_caption": "EURAERIAL",
-    "portfolio_role": "(Editor, Drone Pilot)",
+    "portfolio_role": "Editor, Drone Pilot",
     "metadata_title": "",
     "source_title": "",
     "source_description": "",
@@ -51,7 +60,14 @@
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
     "index": 2,
-    "asset_url": "https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/c50dca02-0156-4858-890a-7a939b773d9e/original"
+    "asset_url": "https://video.squarespace-cdn.com/content/v1/658376ee4344787c0829f3d8/c50dca02-0156-4858-890a-7a939b773d9e/original",
+    "portfolio_role_raw": "(Editor, Drone Pilot)",
+    "display_role": "Editor, Drone Pilot",
+    "portfolio_roles": [
+      "Editor",
+      "Drone Pilot"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -65,7 +81,7 @@
     "view_url": "https://player.vimeo.com/video/417720127?h=33fdce7de2&app_id=122963",
     "caption": "Bernie Blackout Trailer",
     "portfolio_caption": "Bernie Blackout Trailer",
-    "portfolio_role": "(Editor)",
+    "portfolio_role": "Editor",
     "metadata_title": "",
     "source_title": "",
     "source_description": "",
@@ -77,7 +93,13 @@
     "display_description": "My friends at Pat McGee Pictures asked me to cut a trailer for this “Mainstream Media vs. Bernie Sanders” documentary.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 3
+    "index": 3,
+    "portfolio_role_raw": "(Editor)",
+    "display_role": "Editor",
+    "portfolio_roles": [
+      "Editor"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -91,7 +113,7 @@
     "view_url": "https://www.youtube.com/watch?v=NIu6Ykuv8qQ",
     "caption": "Parents Explain Birth Control (CUT)",
     "portfolio_caption": "Parents Explain Birth Control (CUT)",
-    "portfolio_role": "(Editor)",
+    "portfolio_role": "Editor",
     "metadata_title": "Parents Explain Birth Control | Parents Explain | Cut",
     "source_title": "Parents Explain Birth Control | Parents Explain | Cut",
     "source_description": "",
@@ -103,7 +125,13 @@
     "display_description": "14 million + views on this experimental video that I edited for CUT’s YouTube channel.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 4
+    "index": 4,
+    "portfolio_role_raw": "(Editor)",
+    "display_role": "Editor",
+    "portfolio_roles": [
+      "Editor"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -117,7 +145,7 @@
     "view_url": "https://www.youtube.com/watch?v=etEM_zPL_nQ",
     "caption": "MIDI MATILDA - TIDAL WAVE",
     "portfolio_caption": "MIDI MATILDA - TIDAL WAVE",
-    "portfolio_role": "(Co-Director, Camera)",
+    "portfolio_role": "Co-Director, Camera",
     "metadata_title": "Midi Matilda - Tidal Wave",
     "source_title": "Midi Matilda - Tidal Wave",
     "source_description": "",
@@ -129,7 +157,14 @@
     "display_description": "After a week of road tripping around California, and a LOT of rotoscoping, we ended up with this.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 5
+    "index": 5,
+    "portfolio_role_raw": "(Co-Director, Camera)",
+    "display_role": "Co-Director, Camera",
+    "portfolio_roles": [
+      "Co-Director",
+      "Camera"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -143,7 +178,7 @@
     "view_url": "https://player.vimeo.com/video/474827764?h=36c1c0d714&app_id=122963",
     "caption": "LYRIC SUITE",
     "portfolio_caption": "LYRIC SUITE",
-    "portfolio_role": "(Editor, Co-Director, Camera)",
+    "portfolio_role": "Editor, Co-Director, Camera",
     "metadata_title": "",
     "source_title": "",
     "source_description": "",
@@ -155,7 +190,15 @@
     "display_description": "A short trailer for the feature length dance film that I co-directed with Spectrum Dance Theater's Donald Byrd.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 6
+    "index": 6,
+    "portfolio_role_raw": "(Editor, Co-Director, Camera)",
+    "display_role": "Editor, Co-Director, Camera",
+    "portfolio_roles": [
+      "Editor",
+      "Co-Director",
+      "Camera"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -169,7 +212,7 @@
     "view_url": "https://www.youtube.com/watch?v=MiqSscagM0A",
     "caption": "Brittany Davis - Sepricon",
     "portfolio_caption": "Brittany Davis - Sepricon",
-    "portfolio_role": "(Co-Director, Editor)",
+    "portfolio_role": "Co-Director, Editor",
     "metadata_title": "Brittany Davis - Sepricon (Official Music Video)",
     "source_title": "Brittany Davis - Sepricon (Official Music Video)",
     "source_description": "",
@@ -181,7 +224,14 @@
     "display_description": "I co-directed and edited this music video with Donald Byrd at the Rabbit Box in Pike Place Market, Seattle. We wanted to give the viewer the experience of what's it's like to be a blind musician hearing rhythms of movement that build into a musical production.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 7
+    "index": 7,
+    "portfolio_role_raw": "(Co-Director, Editor)",
+    "display_role": "Co-Director, Editor",
+    "portfolio_roles": [
+      "Co-Director",
+      "Editor"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -195,7 +245,7 @@
     "view_url": "https://www.youtube.com/watch?v=su6h3GmKgWI",
     "caption": "Steel Betty - The Waffle House Song",
     "portfolio_caption": "Steel Betty - The Waffle House Song",
-    "portfolio_role": "(Director, Camera, Editor)",
+    "portfolio_role": "Director, Camera, Editor",
     "metadata_title": "STEEL BETTY // \"The Waffle House Song\" OFFICIAL MUSIC VIDEO",
     "source_title": "STEEL BETTY // \"The Waffle House Song\" OFFICIAL MUSIC VIDEO",
     "source_description": "",
@@ -207,7 +257,15 @@
     "display_description": "I helped Steel Betty make their vision a reality for the hilarious \"Waffle House\" song.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 8
+    "index": 8,
+    "portfolio_role_raw": "(Director, Camera, Editor)",
+    "display_role": "Director, Camera, Editor",
+    "portfolio_roles": [
+      "Director",
+      "Camera",
+      "Editor"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -221,7 +279,7 @@
     "view_url": "https://www.youtube.com/watch?v=uVSGv4AYjAc",
     "caption": "“Shiver” ft. Ify",
     "portfolio_caption": "“Shiver” ft. Ify",
-    "portfolio_role": "(Music Production)",
+    "portfolio_role": "Music Production",
     "metadata_title": "SHIVER feat. Ify",
     "source_title": "SHIVER feat. Ify",
     "source_description": "",
@@ -233,7 +291,13 @@
     "display_description": "I made this track with my dearest friend's vocals she recorded across the world! Arrangement inspired by Darius.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 9
+    "index": 9,
+    "portfolio_role_raw": "(Music Production)",
+    "display_role": "Music Production",
+    "portfolio_roles": [
+      "Music Production"
+    ],
+    "role_extraction_status": "nearby visible portfolio role/credit text"
   },
   {
     "category": "Portfolio Videos",
@@ -259,6 +323,9 @@
     "display_description": "Portfolio video item.",
     "share_url": "https://agentai-leo.github.io/elranchopro-video-summary",
     "download_zip_url": "https://agentai-leo.github.io/elranchopro-video-summary/elranchopro_video_summary_bundle.zip",
-    "index": 10
+    "index": 10,
+    "display_role": "",
+    "portfolio_roles": [],
+    "role_extraction_status": "no nearby role/credit text visible"
   }
 ]
